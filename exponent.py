@@ -1,2 +1,2 @@
-a,b=map(int,input().split())
-print(pow(a,b))
+n1,n2=map(int,input().split())
+print(pow(n1,n2))
