@@ -1,3 +1,4 @@
+length=int(input())
 l=list(str(input()))
 vowel=['a','A','e','E','i','I','O','o','U','u']
 for i in l:
