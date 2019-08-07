@@ -6,3 +6,5 @@ for i in range(n):
                break
        else:
            print(i,end=" ")
+else:
+   print("0")
