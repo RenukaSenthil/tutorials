@@ -11,6 +11,6 @@ while(Sum>0):
     rev=(rev*10)+a
     Sum=Sum//10
 if(rev==Temp):
-    print("Yes")
+    print("YES")
 else:
-    print("No")
+    print("NO")
