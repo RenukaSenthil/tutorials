@@ -3,4 +3,5 @@ ns=[]
 for i in s:
     if i not in ns:
         ns.append(i)
-print(*(sorted(ns[::-1])),sep="")
+ns.sort()
+print(*ns[::-1],sep="")
